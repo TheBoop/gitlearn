@@ -144,7 +144,7 @@ Run the next test case.
 The controller realized that our ``shell`` had finished, so it was restarted.
 Also, you were notified that the ``shell`` needed to be restarted.
 
-Step throught the next case.
+Step through the next case.
 
 This one stops the shell. How is it handled? Try the last case to find out.
 
@@ -160,7 +160,7 @@ Let's give the student a full grade for the objective on lines 5 and 7:
 f 5
 f 7
 ```
-They recieve 4 points for the objective on line 6:
+They receive 4 points for the objective on line 6:
 ```
 g 6 4
 ```
