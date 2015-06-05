@@ -40,7 +40,7 @@ permissions on the owner: 'chmod u+x ~/bin/moss'
 You may of course follow the instruction provided on the official
 web site and download your own copy. If you do this, you will get a 
 series of email that register you to the system and assigns you a
-'userid'. For some reason, I and my predecesors failed to register
+'userid'. For some reason, I and my predecessors failed to register
 and unfortunately spent hours of pain and suffering. The script
 provided here uses some person's userid that still works, so I suggest 
 you go the easy way and use the provided script, unless you want to 
@@ -75,7 +75,7 @@ submission system used since 2004 (or even before, when I was an undergrad
 grader).
 
 After running the command, you will notice that the script creates a tar 
-ball of everyting and it sends it to the Stanford servers. Now for some
+ball of everything and it sends it to the Stanford servers. Now for some
 reason (actually due to the system admin people policies I suspect), this
 script does not work with all the current servers available at ucr (hill, 
 eon, or orpheus), so you must use: grader.cs.ucr.edu. In case this changes,
@@ -90,15 +90,15 @@ follow it on your prefered browser.
 
 INTERPRETING THE RESULTS
 
-When you finally get to this stage, beaware of the perverse instinct of 
+When you finally get to this stage, beware of the perverse instinct of 
 overdoing the inspection: remember that you once were a student and you 
 worked with your pals without the intention of cheating (really! that 
 thought never crossed my mind).
 
-So you will get, among other stuff, two collumns with two files being 
+So you will get, among other stuff, two columns with two files being 
 compared against each other. You will also notice a percentage number next 
-to their name and a third collumn with the number of matched lines.
-Fortunately the comparisons are sorted in decreesing order of matched 
+to their name and a third columns with the number of matched lines.
+Fortunately the comparisons are sorted in decreasing order of matched 
 lines, with will give you a higher indication of cheating issues. If you click
 on a line you will be taken to another page that shows you the code
 compared side by side.
